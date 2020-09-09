@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the page of the furture code master Chilas.
 
-You can use the [editor on GitHub](https://github.com/ChilasDipo/ChilasDipo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site is made with the purpose of testing my ability to become a furture code master, so I can conquer the world of code.
 
 ### Markdown
 
