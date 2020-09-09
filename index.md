@@ -1,5 +1,16 @@
 ## Welcome to the page of the furture code master Chilas
 
+<style>
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+}
+</style>
+
 This site is made with the purpose of testing my ability to become a furture code master, so I can conquer the world of code.
 
 ### A bit about the owner
