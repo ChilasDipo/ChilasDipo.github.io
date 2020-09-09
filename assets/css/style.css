@@ -1,0 +1,21 @@
+---
+---
+
+@import"{{ site.theme }}";
+.page-header{body {background-color: black;}
+body {
+  color: white;
+}
+
+h1 {
+  color: blue;
+}
+}
+.body {
+  color: white;
+}
+
+h1 {
+  color: blue;
+}
+}
