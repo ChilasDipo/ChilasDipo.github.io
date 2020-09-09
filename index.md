@@ -25,8 +25,6 @@ public class Hello {
 }
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### My thanks to you ;D
 
 For the troubles of looking at my non perfect page you get at funny video. :D
