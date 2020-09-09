@@ -8,22 +8,21 @@ I am Chilas Dipo and am currently studying computer science at Zealand in Næstv
 I have always had an interest in computers which later morphed into a interest for codeing and problem solveing, these go hand in hand since
 many mordern problems requires someone with extensive knowledge in code to solve them.
 
+### Code for Hello World
+
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+public class Hello {
+    // psvm
+    public static void main(String[] args){
+        //sout
+        int helle ;
+         helle = 23;
+        System.out.println(helle);
+        System.out.println("Dette virker 123");
+        System.out.println("Hello World");
+        System.out.println("Hej mor");
+    }
+}
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
