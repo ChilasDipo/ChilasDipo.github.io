@@ -1,10 +1,10 @@
-## Welcome to the page of the furture code master Chilas.
+## Welcome to the page of the furture code master Chilas
 
 This site is made with the purpose of testing my ability to become a furture code master, so I can conquer the world of code.
 
-### Markdown
+### A bit about the owner
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am Chilas Dipo
 
 ```markdown
 Syntax highlighted code block
@@ -26,9 +26,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Here you have a video for your trouples ;D
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChilasDipo/ChilasDipo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+video:https://streamable.com/kkqdc9
 
 ### Support or Contact
 
